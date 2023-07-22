@@ -22,7 +22,7 @@
 
 ###
 
-- 🔭 I’m currently working on [beecrowd-solutions-in-js](https://github.com/DavidWesley/beecrowd-solutions-in-js)
+- 🔭 I’m currently working on [new-beecrowd-solutions-in-js](https://github.com/DavidWesley/new-beecrowd-solutions-in-js)
 
 - 🌱 I’m currently learning **Rust**
 
