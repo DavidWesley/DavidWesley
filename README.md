@@ -1,6 +1,6 @@
 <header>
 	<h1 align="center">David Wesley</h1>
-	<h3 align="center">I'm just a guy trying to be a programmer.</h3>
+	<h3 align="center">Passionate (pseudo) backend developer learning to build scalable systems with Node.js and TypeScript.</h3>
 </header>
 
 <nav>
@@ -21,9 +21,6 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-- 🔭 I’m currently working on [beecrowd-solutions-in-js](https://github.com/DavidWesley/beecrowd-solutions-in-js)
-
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DavidWesley](https://github.com/DavidWesley)
